@@ -1,2 +1,3 @@
 # hello-world
-Nothing to see here.
+Something to see here.
+I am not a fan of Mac. At least it has Bash, though. 
