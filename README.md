@@ -1,3 +1,4 @@
 # hello-world
-Something to see here.
-I am not a fan of Mac. At least it has Bash, though. 
+I honestly would feel much better and more professional talking about myself in the third person, like a novelist.
+"Oh, this guy, he does this thing and that. He really knows his stuff."
+But that would be so cringy, like upvoting your own comment. 
